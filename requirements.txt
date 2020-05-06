@@ -1,1 +1,4 @@
+kafka
+kafka-python
+flask
 hl7apy
